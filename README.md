@@ -116,6 +116,19 @@ to real time, dock & menubar.
 `HTML` `CSS` `Three.js`
 
 </td>
+<td width="33%" align="center">
+
+**[PULSOR](https://pulsor-smoky.vercel.app/)**
+
+[![pulsor](https://img.shields.io/badge/Live%20Demo-↗-A67C52?style=flat-square)](https://pulsar-smoky.vercel.app/)
+
+Premium SaaS agency landing page.\
+GSAP animations, Lenis smooth\
+scroll, animated stats & CTA.
+
+`Next.js` `TailwindCSS` `GSAP`
+
+</td>
 </tr>
 </table>
 

@@ -118,9 +118,9 @@ to real time, dock & menubar.
 </td>
 <td width="33%" align="center">
 
-**[HELIX](https://pulsor-smoky.vercel.app/)**
+**[HELIX](https://helix-lac.vercel.app/)**
 
-[![helix](https://img.shields.io/badge/Live%20Demo-↗-A67C52?style=flat-square)](https://pulsor-smoky.vercel.app/)
+[![helix](https://img.shields.io/badge/Live%20Demo-↗-A67C52?style=flat-square)](https://helix-lac.vercel.app/)
 
 Premium SaaS agency landing page.\
 GSAP animations, Lenis smooth\
